@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LookAndFeel</string>
+    <string name="email_hint">Enter email...</string>
+    <string name="pwd_hint">Enter password...</string>
+    <string name="clear_button_txt">Clear</string>
+    <string name="submit_button_txt">Submit</string>
+    <string name="spin_button_txt">SPIN</string>
+    <string name="move_button_txt">MOVE</string>
+    <string name="fade_button_txt">FADE</string>
+    <string name="animating">UWT</string>
+</resources>
